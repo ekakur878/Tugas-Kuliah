@@ -1,3 +1,4 @@
+package project.src.com.pbos;
 
 
 public class Sayuran
@@ -20,7 +21,7 @@ public class Sayuran
         return nama;
     }
 
-    public void setNam(String nama){
+    public void setNama(String nama){
         this.nama = nama;
     }
 

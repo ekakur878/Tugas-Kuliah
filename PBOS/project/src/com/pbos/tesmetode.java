@@ -1,4 +1,4 @@
-package pbos;
+package project.src.com.pbos;
 
 // class tes1{
     // Data objek

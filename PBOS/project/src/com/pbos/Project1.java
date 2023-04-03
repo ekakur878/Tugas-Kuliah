@@ -1,4 +1,4 @@
-package pbos;
+package project.src.com.pbos;
 
 
 public  class Project1{
