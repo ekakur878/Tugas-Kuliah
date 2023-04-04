@@ -1,5 +1,5 @@
 //#include <stdio.h>
-#include <conio.h>
+// #include <conio.h>
 #include <string.h>
 #include <iostream>
 using namespace std;
@@ -88,7 +88,7 @@ void tampil()
      cout<<baru->nama<<"  ";
      baru=baru->next;
    }
-   getch();
+   // getch();
 }
 
 

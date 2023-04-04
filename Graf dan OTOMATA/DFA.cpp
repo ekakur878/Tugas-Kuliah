@@ -1,5 +1,7 @@
-#include <iostream.h>
-void main(){
+#include <iostream>
+using namespace std;
+
+int main(){
    int state;
    char inp[10];
    int pos;
