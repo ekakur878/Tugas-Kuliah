@@ -14,7 +14,6 @@ simpul *awal;
 void tambah_depan();
 void tambah_belakang();
 void tampil();
-void hapus();
 
 
 int main()
