@@ -1,4 +1,5 @@
-package project.src.com.pbos;
+package com.pbos;
+
 public class Main_sayuran
 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package project.src.com.pbos;
+package com.pbos;
 // package pbos;
 public class ifelse {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
-package project.src.com.pbos;
-// package pbos;
+package com.pbos;
+
 
 public class MHS1 {
 

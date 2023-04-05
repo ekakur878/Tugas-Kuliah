@@ -1,4 +1,4 @@
-package project.src.com.pbos;
+package com.pbos;
 
 import java.util.Scanner;
 

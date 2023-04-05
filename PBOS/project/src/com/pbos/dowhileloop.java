@@ -1,4 +1,4 @@
-package project.src.com.pbos;
+package com.pbos;
 
 public class dowhileloop {
     public static void main(String[] args) {
