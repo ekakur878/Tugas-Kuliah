@@ -1,0 +1,32 @@
+
+//This is a test program
+#include<stdio.h>
+#include<math.h>
+#include<stdlib.h>
+
+int main()
+{
+	int i=0;
+	char b;
+	
+	printf("Hello world");
+	scanf("%d",&i);
+
+	for(i=0;i<10;i++);
+{
+}
+	sizeof(b);
+	while(i=1);
+
+	do;
+	enum{
+};
+//Hello world
+
+	strcpy(b,"h");
+	
+	if(b=i);
+
+	case
+}
+return 0;	
