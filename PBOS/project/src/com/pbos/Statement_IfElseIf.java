@@ -2,7 +2,7 @@ package com.pbos;
 
 import java.util.Scanner;
 
-public class ifelse3 {
+public class Statement_IfElseIf {
     public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
 

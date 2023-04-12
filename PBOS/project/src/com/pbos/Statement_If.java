@@ -1,6 +1,6 @@
 package com.pbos;
 // package pbos;
-public class ifelse {
+public class Statement_If {
     public static void main(String[] args) {
         int x = 10;
         if ( x > 5 ) {

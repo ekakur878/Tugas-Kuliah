@@ -1,6 +1,6 @@
 package com.pbos;
 
-public class while1 {
+public class Perulangan_While {
     
     public static void main(String[] args) {
 
